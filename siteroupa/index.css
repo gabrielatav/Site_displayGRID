@@ -1,0 +1,267 @@
+body{
+    width: 100%;
+    margin:0;
+	text-align:center;
+	background-color: #FADADA;
+    
+    
+}
+
+.cabecalho {
+    
+    background-color: #9E3333;
+	
+	display: grid;
+	grid-template-columns: 10% auto 10% 10% 8%;
+	border-bottom:1px solid;
+	
+	
+
+}
+
+.calcas{
+	color:black;
+}
+
+h1{
+    font-size: 15px;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 390px;
+    color: #FFFFFF;
+    line-height: 29px;
+	left:80%;
+	margin-top:18%;
+	margin-right:13%;
+	height:20%;
+	
+}
+
+h1:hover{
+	cursor:pointer;
+	color:black;
+}
+
+.logo{
+	width: 95px;
+height: 90px;
+
+
+}
+
+.iconus{
+	margin-top:20%;
+	margin-left:71%;
+	width:45px;
+}
+
+.iconus:hover{
+	cursor:pointer;
+	background-color:gray;
+}
+
+.sacola{
+	margin-top:17%;
+	margin-left:133%;
+	width: 52px;
+height: 45px;
+}
+
+.sac:hover{
+	cursor:pointer;
+	background-color:gray;
+}
+
+
+.subheader{
+	background-color: #9E3333;
+	display: grid;
+	grid-template-columns: 16% 16% 16% 16% 16% 16%;
+	height:8vh;
+
+}
+
+.letras{
+	font-family: "Italiana", serif;
+	margin-top: 5%;
+	font-weight: 400;
+font-size: 18px;
+	
+}
+
+p{
+	font-family: "Italiana", serif;
+	margin-top: -1%;
+	font-weight: 400;
+font-size: 18px;
+color:black;
+	
+}
+
+.letras:hover{
+	cursor:pointer;
+	background-color: white;
+
+}
+
+
+.frete{
+	background-color: #D69393;
+	height:4vh;
+	
+	
+}
+
+.ff{
+	letter-spacing: 0.775em;
+	color: rgba(0, 0, 0, 0.53);
+	margin-top:10%;
+	margin-left:8%;
+	font-family: 'Itim', cursive;
+
+
+}
+
+.titulo{
+	margin-left:8%;
+	font-family: "Itim";
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 115px;
+color: #863E3E;
+letter-spacing: 1.29em;
+
+}
+
+.banner{
+	width: 100%;
+}
+
+.banner:hover{
+	cursor:pointer;
+}
+
+.textinho{
+	margin-top: 7%;
+	display: grid;
+	grid-template-columns: 30% 40% 30% ;
+}
+
+.troca{
+	font-size: 25px;
+	color: #843434;
+}
+
+.troca:hover{
+	cursor:pointer;
+	color:white;
+}
+
+.t2{
+	color:  #874242;
+	font-size: 22px;
+}
+
+.t3{
+	color: #070101;
+	font-size: 22px;
+}
+
+.duvida{
+	font-size: 25px;
+	color: #843434;
+}
+
+.duvida:hover{
+	cursor:pointer;
+	color:white;
+}
+
+.d2{
+	color: #070101;
+	font-size: 22px;
+}
+
+
+.imp{	
+	
+	font-weight: 400;
+font-size: 44px;
+line-height: 72px;
+letter-spacing: 0.32em;
+font-family: 'Holtwood One SC', serif;
+
+color: #5C0C0C;
+
+}
+
+.espaço{ margin-top: 8%;}
+
+.fotinhas{
+	display:grid;
+	grid-template-columns: 33% 33% 33% ;
+	gap: 4px;
+	
+	
+}
+
+.aniv{
+	margin-top:7%;
+}
+
+.jaq{
+	margin-top:3%;
+}
+
+.sobre{
+	text-align: left;
+	margin-left: 4%;
+}
+
+.fts:hover{
+	cursor:pointer;
+}
+
+.rodape{
+	margin-top: 8%;
+	background-color: #9E3333;
+	
+	display:grid;
+	grid-template-columns: 28% 10% 10% 10% 10% 10%;
+	
+}
+
+.sob{
+	margin-left:8%;
+	font-family: 'Holtwood One SC';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+letter-spacing: 0.32em;
+color: #FFFFFF;
+
+}
+
+li{
+	font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+color: #FFFFFF;
+}
+
+li:hover{
+	cursor:pointer;
+	color:black;
+}
+
+.icons img{
+	margin-top:30%;
+	width:30%;
+}
+
+.icons:hover{
+	cursor:pointer;
+}
+

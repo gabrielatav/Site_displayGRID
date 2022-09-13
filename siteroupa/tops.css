@@ -1,0 +1,166 @@
+body{
+    width: 100%;
+    margin:0;
+	text-align:center;
+	background-color: #FADADA;
+    
+    
+}
+
+.cabecalho {
+    
+    background-color: #9E3333;
+    height: 5em;
+    border-bottom:1px solid;
+}
+
+.topss{
+	
+	background-color:white;
+}
+
+
+.filt{
+	width:3%;
+	margin-left: 90%;
+	margin-top:1%
+
+}
+
+.filt:hover{
+	cursor:pointer;
+	background-color:gray;
+}
+
+.subheader{
+	background-color: #9E3333;
+	display: grid;
+	grid-template-columns: 16% 16% 16% 16% 16% 16%;
+	height:7vh;
+
+}
+
+.letras{
+	font-family: "Italiana", serif;
+	margin-top: 5%;
+	font-weight: 400;
+font-size: 18px;
+	
+}
+
+.letras:hover{
+	cursor:pointer;
+	background-color: white;
+
+}
+
+.title{
+	margin-top:1%;
+}
+
+.tops{
+	font-family: 'Holtwood One SC';
+font-style: normal;
+font-weight: 400;
+font-size: 43px;
+line-height: 70px;
+letter-spacing: 0.465em;
+margin-left: -5%;
+
+color: #5C0C0C;
+}
+
+.corsets{
+    color: #973333;
+    font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 46px;
+    margin-top: 4%;
+    margin-left: -87%;
+}
+
+.dest{
+    margin-left: -85%;
+
+}
+
+.top{
+    margin-left: -89%;
+}
+
+.cst{
+    
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.tulip:hover{
+    cursor: pointer;
+}
+
+.dama:hover{
+    cursor: pointer;
+}
+
+.ww:hover{
+    cursor: pointer;
+}
+
+.ddn:hover{
+    cursor: pointer;
+}
+
+.mia:hover{
+    cursor: pointer;
+}
+
+.liv:hover{
+    cursor: pointer;
+}
+
+.green:hover{
+    cursor: pointer;
+}
+
+.fast:hover{
+    cursor: pointer;
+}
+
+.rb:hover{
+    cursor: pointer;
+}
+
+.basic:hover{
+    cursor: pointer;
+}
+
+.bt:hover{
+    cursor: pointer;
+}
+
+.wb:hover{
+    cursor: pointer;
+}
+
+.icons img{
+	margin-top:20%;
+	width:30%;
+	margin-left:275%;
+	margin-bottom: 30%;
+	
+}
+
+.icons:hover{
+	cursor:pointer;
+}
+
+.rodape{
+	margin-top: 8%;
+	background-color: #9E3333;
+	
+	display:grid;
+	grid-template-columns: 10% 10% 10% 10% 10%;
+	
+}

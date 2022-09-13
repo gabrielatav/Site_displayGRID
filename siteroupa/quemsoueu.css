@@ -1,0 +1,68 @@
+body{
+    width: 100%;
+    margin:0;
+	text-align:center;
+	background-color: #FADADA;
+    
+    
+}
+
+.cabecalho {
+    
+    background-color: #9E3333;
+	height: 5em;
+}
+
+.casinha{
+	width:4%;
+	margin-left:-90%;
+	margin-top:1%
+}
+
+.quem{
+	font-family: 'Holtwood One SC';
+font-style: normal;
+font-weight: 400;
+font-size: 43px;
+line-height: 70px;
+letter-spacing: 0.465em;
+
+color: #5C0C0C;
+}
+
+.title{
+	margin-top:3%;
+}
+
+.textinho{
+	font-family: 'IBM Plex Mono', monospace;
+	font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 39px;
+
+
+color: #000000;
+margin-top:3%;
+}
+
+.icons img{
+	margin-top:20%;
+	width:30%;
+	margin-left:275%;
+	margin-bottom: 30%;
+	
+}
+
+.icons:hover{
+	cursor:pointer;
+}
+
+.rodape{
+	margin-top: 8%;
+	background-color: #9E3333;
+	
+	display:grid;
+	grid-template-columns: 10% 10% 10% 10% 10%;
+	
+}
